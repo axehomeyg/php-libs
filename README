@@ -1,0 +1,6 @@
+# I often get pretty awesome gigs revamping legacy/script-kiddie php applications. Sometimes, I can rewrite them in Java or Rails and leverage best-practices. Other times, I need a small little dependency-free library of php stuff to cleanly update or begin the process of refactoring a large codebase.
+
+# Test support (in the absense of PEAR/phpunit)
+tests/test_suite.php
+
+
